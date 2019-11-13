@@ -13,8 +13,6 @@ body {
   background-color: #dcd4cd;
   color: #512200;
   display: block;
-  border: solid 3px #785439;
-  border-radius: 3px;
 }
 
 .linebreak, h2, p {
@@ -24,8 +22,8 @@ body {
 p {
   color: #512200;
   text-align: left;
-  padding: 0 0 1em;
   border-bottom: 2px solid #9a816d;
+  padding-bottom: 1em;
 }
 
 dl {
@@ -63,8 +61,7 @@ div {
 .link-card {
   display: block;
   border-color: #785439;
-  border: 3px solid #9a816d;
-  border: solid 3px #dcd4cd;
+  border: solid 3px #785439;
   border-radius: 6px;
 }
 
